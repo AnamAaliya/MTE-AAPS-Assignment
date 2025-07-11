@@ -1,1 +1,1 @@
-Fifty DSA Questions for Mid-Term
+Fifty DSA Questions for Mid-Term Exams
